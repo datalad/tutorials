@@ -9,7 +9,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 1. :link: [Quick links](#links)
 2. :rocket: [Entry-level](#entry)
 3. :nerd_face: [In-depth](#depth)
-4. :microphone: [Online talks](#talks)
+4. :microphone: [Talks](#talks)
 
 
 <div id="links"></div>
@@ -26,7 +26,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 
 <div id="entry"></div>
 
-# Entry-level
+# :rocket: Entry-level
 
 ### Introductory walk-throughs
 
@@ -50,23 +50,22 @@ A registry of tutorials, workshop material, videos and other educational resourc
 <br>
 <div id="depth"></div>
 
-# In-depth
+# :nerd_face: In-depth
 
 | Title | Presenter | Video | Content |
 | :--- | :---: | :---: | :---: |
-| A hands-on introduction to DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | - | - |
+| A hands-on introduction to DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | - |
 | An introduction to DataLad with a focus on machine learning | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | [:computer:](http://handbook.datalad.org/en/latest/code_from_chapters/usecase_ml_code.html)
-| A hands-on introduction to DataLad | Adina Wagner | [:movie_camera: session 1](https://www.youtube.com/watch?v=fL3DWzSWFL8&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=1) | - |
-| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: session 2](https://www.youtube.com/watch?v=GrOfE8jv12s&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=2) | - |
-| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: session 3](https://www.youtube.com/watch?v=lO4yfl30_uc&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=3) | - |
-| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: session 4](https://www.youtube.com/watch?v=3ePgH-kK8h8&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=4) | - |
-| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | - |
+| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: &nbsp; session 1](https://www.youtube.com/watch?v=fL3DWzSWFL8&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=1) | - |
+| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: &nbsp; session 2](https://www.youtube.com/watch?v=GrOfE8jv12s&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=2) | - |
+| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: &nbsp; session 3](https://www.youtube.com/watch?v=lO4yfl30_uc&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=3) | - |
+| Workshop on Research Data Management with DataLad | Adina Wagner & Lennart Wittkuhn | [:movie_camera: &nbsp; session 4](https://www.youtube.com/watch?v=3ePgH-kK8h8&list=PLEQHbPfpVqU5sSVrlwxkP0vpoOpgogg5j&index=4) | - |
 
 
 <br>
 <div id="talks"></div>
 
-# Talks
+# :microphone: Talks
 
 | Title | Presenter | Video |
 | :--- | :--- | :---: |
