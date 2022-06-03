@@ -1,0 +1,3 @@
+notebook
+bash_kernel
+git+https://github.com/choldgraf/jupyter-http-server@main
