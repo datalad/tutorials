@@ -10,6 +10,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 2. :rocket: [Entry-level](#entry)
 3. :nerd_face: [In-depth](#depth)
 4. :microphone: [Talks](#talks)
+5. :woman_student: [Contribute](#contribute)
 
 
 <div id="links"></div>
@@ -79,7 +80,23 @@ A registry of tutorials, workshop material, videos and other educational resourc
 
 
 
+<br>
+<div id="contribute"></div>
 
+# :woman_student: Contribute
+
+Contributions to this repository are very welcome. They can be in the form of feedback, creating issues, or making pull requests to add/update content.
+
+In order to create new notebooks for this repository, please clone it first and then install the development requirements (ideally in a new virtual environment):
+
+```
+git clone https://github.com/datalad/tutorials.git
+cd tutorials
+pip install -r requirements-devel.txt
+python -m bash_kernel.install
+```
+
+New notebooks can then be created using either the standard IPython kernel or the bash kernel. An http server is also available to be launched from within the Jupyter Notebook environment.
 
 
 
