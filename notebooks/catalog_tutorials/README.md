@@ -2,9 +2,9 @@
 
 Welcome to the set of tutorials for [DataLad Catalog](https://github.com/datalad/datalad-catalog)
 
-To get a good understanding of what DataLad Catalog is and what it can do, have a look at the [DataLad Catalog](./datalad_catalog_primer.ipynb)
+To get a good understanding of what DataLad Catalog is and what it can do, have a look at the [DataLad Catalog Primer](./datalad_catalog_primer.ipynb).
 
-For some hands-on experience, try out our tutorials below. They are all available in a contained cloud environment. Just click the "launch binder" button below and, once the environment is loaded, navigate to `tutorials/notebooks/catalog_tutorials`. Then select one of the available tutorial notebooks
+For some hands-on experience, try out our tutorials below. They are all available in a contained cloud environment. Just click the "launch binder" button below and, once the environment is loaded, navigate to `tutorials/notebooks/catalog_tutorials`. Then select one of the available tutorial notebooks.
 
 ## Access the tutorials
 
