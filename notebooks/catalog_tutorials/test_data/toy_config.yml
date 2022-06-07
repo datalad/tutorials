@@ -2,7 +2,7 @@
 catalog_name: "Toy Catalog"
 
 # Styling
-logo_path: "/Users/jsheunis/Documents/psyinf/tutorials/notebooks/catalog_tutorials/test_data/datalad_logo_funky.svg" # path to logo
+logo_path: "/home/jovyan/tutorials/notebooks/catalog_tutorials/test_data/datalad_logo_funky.svg" # path to logo
 link_color: "#32A287" # hex color code
 link_hover_color: "#A9FDAC" # hex color code
 
