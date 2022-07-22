@@ -46,6 +46,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 
 | Title | Presenter | Video | Content | Binder |
 | :--- | :---: | :---: | :---: | :---: |
+| Data Management with DataLad, UKE Hamburg | Adina Wagner, Michał Szczepanik |  [:movie_camera:](https://youtube.com/playlist?list=PLEQHbPfpVqU5RSPiyFuPdDlSUEd-XoPV-) | |
 | OHBM Brainhack TrainTrack: DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=sDP1jhRkKRo) | [:computer:](http://handbook.datalad.org/en/latest/code_from_chapters/OHBM.html) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datalad-handbook/datalad-tutorial-binder/HEAD) |
 
 
