@@ -79,6 +79,8 @@ A registry of tutorials, workshop material, videos and other educational resourc
 | Perpetual decentralized management of digital objects for collaborative open science | Michael Hanke | [:movie_camera:](https://www.youtube.com/watch?v=SJ64rSMD9PU) |
 | DataLad - Decentralized Management of Digital Objects for Open Science | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=pIGFS8XDjco) |
 | Data versioning and transformation with DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=wimd1uhIJ8g) |
+| FAIRly big: A framework for reproducible processing of large-scale data (OHBM 2022 poster talk) | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=YvZacWgGRZY) |
+| DataCat: Generate a user-friendly data browser from structured metadata using datalad-catalog (OHBM 2022 poster talk) | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=4GERwj49KFc) |
 
 
 
