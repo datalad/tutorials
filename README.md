@@ -56,8 +56,6 @@ A registry of tutorials, workshop material, videos and other educational resourc
 
 | Title | Presenter | Video | Content |
 | :--- | :---: | :---: | :---: |
-
-
 | Research Data Management with DataLad - An online course - 2022 | - | - | [:computer:](https://psychoinformatics-de.github.io/rdm-course/) |
 | A hands-on introduction to DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | - |
 | An introduction to DataLad with a focus on machine learning | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=_I3JFhJJtW0) | [:computer:](http://handbook.datalad.org/en/latest/code_from_chapters/usecase_ml_code.html)
