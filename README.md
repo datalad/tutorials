@@ -80,7 +80,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 | DataLad - Decentralized Management of Digital Objects for Open Science | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=pIGFS8XDjco) |
 | Data versioning and transformation with DataLad | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=wimd1uhIJ8g) |
 | FAIRly big: A framework for reproducible processing of large-scale data (OHBM 2022 poster talk) | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=YvZacWgGRZY) |
-| DataCat: Generate a user-friendly data browser from structured metadata using datalad-catalog (OHBM 2022 poster talk) | Adina Wagner | [:movie_camera:](https://www.youtube.com/watch?v=4GERwj49KFc) |
+| DataCat: Generate a user-friendly data browser from structured metadata using datalad-catalog (OHBM 2022 poster talk) | Stephan Heunis | [:movie_camera:](https://www.youtube.com/watch?v=4GERwj49KFc) |
 
 
 
@@ -101,8 +101,3 @@ python -m bash_kernel.install
 ```
 
 New notebooks can then be created using either the standard IPython kernel or the bash kernel. An http server is also available to be launched from within the Jupyter Notebook environment.
-
-
-
-
-
