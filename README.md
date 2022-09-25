@@ -40,6 +40,7 @@ A registry of tutorials, workshop material, videos and other educational resourc
 | Explore DataLad - an intro| [:computer:](https://github.com/datalad/tutorials/notebooks/intro_to_datalad.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datalad/datalad-binder/HEAD?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fdatalad%252Ftutorials%26urlpath%3Dnotebooks%252Ftutorials%252Fnotebooks%252Fintro_to_datalad.ipynb) |
 | Exploring the StudyForrest dataset with DataLad | [:computer:](https://github.com/psychoinformatics-de/studyforrest-data-binder/blob/main/exploring_studyforrest_with_datalad.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychoinformatics-de/studyforrest-data-binder/HEAD?filepath=exploring_studyforrest_with_datalad.ipynb) |
 | A short guide to accessing OpenNeuro datasets via DataLad | [:computer:](http://handbook.datalad.org/en/latest/usecases/openneuro.html) | - | 
+| Datalad crash course | [:computer:](https://cpp-lln-lab.github.io/datalad_crash_course/) | - | 
 
 
 ### Workshops
